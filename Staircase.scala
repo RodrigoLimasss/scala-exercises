@@ -11,4 +11,13 @@ object Main extends App {
   }
   Staircase(6)
   
+  /* output:
+        #
+       ##
+      ###
+     ####
+    #####
+   ######
+ */
+  
 }
