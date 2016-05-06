@@ -2,7 +2,7 @@
   * Created by Rodrigo Lima on 05-May-16.
   */
 
-object Solution {
+object SearchIndexInArray {
 
   /**
     input:

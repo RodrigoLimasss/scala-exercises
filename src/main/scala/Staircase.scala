@@ -2,7 +2,7 @@
   * Created by Rodrigo Lima on 03-May-16.
   */
 
-object Solution {
+object Staircase {
 
   /**
     input: 6
