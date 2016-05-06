@@ -4,16 +4,25 @@
 
 object Solution {
 
+  /**
+    input: 6
+  */
+
   def main(args: Array[String]) {
+
+    import scala.io.StdIn._
+
+    val v = readInt
 
     def Staircase(n: Int) = {
       (1 to n).foreach(x => {
         println((" " * (n - x)) + ("#" * x))
       })
     }
-    Staircase(6)
+    Staircase(v)
 
-    /*  output:
+    /**
+      output:
               #
              ##
             ###

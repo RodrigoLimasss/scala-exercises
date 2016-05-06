@@ -4,6 +4,13 @@
 
 object Solution {
 
+  /**
+    input:
+    4 - value
+    6 - array size
+    1 4 5 7 9 12 - items array
+  */
+
   def main(args: Array[String]) {
 
     import scala.io.StdIn._
@@ -18,6 +25,10 @@ object Solution {
     })
 
     println(array.indexOf(v))
+
+    /**
+      output: 1
+    */
 
   }
 }
