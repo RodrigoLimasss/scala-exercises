@@ -1,5 +1,5 @@
 /**
-  * Created by Rodrigo Lima on 28/08/2016.
+  * Created by Rodrigo Lima on 28/08/2017.
   */
 
 object FriendlyNames {
